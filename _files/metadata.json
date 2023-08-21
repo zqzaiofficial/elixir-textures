@@ -1,1 +1,21 @@
-
+[
+    {
+        "name": "RNO Private Default Edit",
+        "description": "Made by Curt and recoloured by Xero.",
+        "packIconLink": "https://media.discordapp.net/attachments/1143076585986076724/1143082066746015804/pack_icon-1.png",
+        "swordIconLink": "https://media.discordapp.net/attachments/1143076585986076724/1143082067169644665/diamond_sword.png",
+        "zipDownloadLink": "https://example.com/pack1/download.zip"
+    },
+    {
+        "name": "Pixel Art Pack",
+        "description": "A pack featuring pixelated textures reminiscent of retro games.",
+        "packIconLink": "https://example.com/pack2/icon.png",
+        "zipDownloadLink": "https://example.com/pack2/download.zip"
+    },
+    {
+        "name": "Fantasy Pack",
+        "description": "Immerse yourself in a fantastical world with this texture pack.",
+        "packIconLink": "https://example.com/pack3/icon.png",
+        "zipDownloadLink": "https://example.com/pack3/download.zip"
+    }
+]
