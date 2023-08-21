@@ -2,20 +2,21 @@
     {
         "name": "RNO Private Default Edit",
         "description": "Made by Curt and recoloured by Xero.",
+        "packAuthor": "Curt & zXeroka"
+        "hasNetherite": false,
+        "previewPackLink": "https://media.discordapp.net/attachments/1143076585986076724/1143082066389520384/image-12.png",
         "packIconLink": "https://media.discordapp.net/attachments/1143076585986076724/1143082066746015804/pack_icon-1.png",
         "swordIconLink": "https://media.discordapp.net/attachments/1143076585986076724/1143082067169644665/diamond_sword.png",
-        "zipDownloadLink": "https://example.com/pack1/download.zip"
+        "zipDownloadLink": "https://github.com/zqzaiofficial/twilight-textures/raw/main/_files/packs/RNO%20Private%20Default%20Edit.zip"
     },
     {
-        "name": "Pixel Art Pack",
-        "description": "A pack featuring pixelated textures reminiscent of retro games.",
-        "packIconLink": "https://example.com/pack2/icon.png",
-        "zipDownloadLink": "https://example.com/pack2/download.zip"
+        "name": "Grey 128x",
+        "description": "Made by Lastings then ported by zXeroka.",
+        "packAuthor": "Lastings & zXeroka"
+        "hasNetherite": true,
+        "previewPackLink": "https://media.discordapp.net/attachments/1143076585986076724/1143082428173398027/image-16.png",
+        "packIconLink": "https://media.discordapp.net/attachments/1143076585986076724/1143082428567650374/pack_icon.png",
+        "swordIconLink": "https://media.discordapp.net/attachments/1143076585986076724/1143082428932567150/diamond_sword-1.png",
+        "zipDownloadLink": "https://github.com/zqzaiofficial/twilight-textures/raw/main/_files/packs/RNO%20Private%20Default%20Edit.zip"
     },
-    {
-        "name": "Fantasy Pack",
-        "description": "Immerse yourself in a fantastical world with this texture pack.",
-        "packIconLink": "https://example.com/pack3/icon.png",
-        "zipDownloadLink": "https://example.com/pack3/download.zip"
-    }
 ]
