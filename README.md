@@ -2,6 +2,9 @@
 
 Welcome to the Twilight Textures Texture Packs Repository! This repository houses all the texture packs used by the Twilight Textures program for Minecraft Pocket Edition (MCPE). Developers interested in creating their own versions of the program are encouraged to explore and utilize these texture packs, while ensuring proper credit is given to the original creators.
 
+# **Warning**<br>
+> Twilight Premium Textures are **NOT** avaliable here.
+
 ## About Twilight Textures
 
 Twilight Textures is a program designed to enhance the visual experience of Minecraft Pocket Edition by applying various texture packs. While the core program is located in a separate repository, this repository contains the essential texture packs used to achieve the unique visual style of Twilight Textures.
