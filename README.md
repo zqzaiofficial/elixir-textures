@@ -1,8 +1,8 @@
 # ✨️ Twilight Textures - Texture Packs Repository ✨️ 
 
-![build](https://travis-ci.org/sferik/twitter.svg?branch=master)
-[![Maintainability](https://api.codeclimate.com/v1/badges/09362621ad91e8f599b3/maintainability)][maintainability]
-[![Inline docs](http://inch-ci.org/github/sferik/twitter.svg?style=shields)][inchpages]
+![Build](https://travis-ci.org/sferik/twitter.svg?branch=master)
+![Maintainability](https://api.codeclimate.com/v1/badges/09362621ad91e8f599b3/maintainability)
+![Inline docs](http://inch-ci.org/github/sferik/twitter.svg?style=shields)
 
 Welcome to the Twilight Textures Texture Packs Repository! This repository houses all the texture packs used by the Twilight Textures program for Minecraft Pocket Edition (MCPE). Developers interested in creating their own versions of the program are encouraged to explore and utilize these texture packs, while ensuring proper credit is given to the original creators.
 
