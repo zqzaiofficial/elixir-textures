@@ -4,19 +4,21 @@
         "description": "Made by Curt and recoloured by Xero.",
         "packAuthor": "Curt & zXeroka"
         "hasNetherite": false,
-        "previewPackLink": "https://media.discordapp.net/attachments/1143076585986076724/1143082066389520384/image-12.png",
-        "packIconLink": "https://media.discordapp.net/attachments/1143076585986076724/1143082066746015804/pack_icon-1.png",
-        "swordIconLink": "https://media.discordapp.net/attachments/1143076585986076724/1143082067169644665/diamond_sword.png",
-        "zipDownloadLink": "https://github.com/zqzaiofficial/twilight-textures/raw/main/_files/packs/RNO%20Private%20Default%20Edit.zip"
+        "previewPackLink": "/packages/previews/rnoPrivateDefualtEdit.png",
+        "packIconLink": "/packages/icons/rnoPrivateDefualtEdit.png",
+        "swordIconLink": "/packages/swords/rnoPrivateDefualtEdit.png",
+        "zipDownloadLink": "https://github.com/zqzaiofficial/twilight-textures/raw/main/_files/packs/RNO%20Private%20Default%20Edit.zip",
+        "id": 0
     },
     {
         "name": "Grey 128x",
         "description": "Made by Lastings then ported by zXeroka.",
         "packAuthor": "Lastings & zXeroka"
         "hasNetherite": true,
-        "previewPackLink": "https://media.discordapp.net/attachments/1143076585986076724/1143082428173398027/image-16.png",
-        "packIconLink": "https://media.discordapp.net/attachments/1143076585986076724/1143082428567650374/pack_icon.png",
-        "swordIconLink": "https://media.discordapp.net/attachments/1143076585986076724/1143082428932567150/diamond_sword-1.png",
-        "zipDownloadLink": "https://github.com/zqzaiofficial/twilight-textures/raw/main/_files/packs/Grey%20128x.zip"
+        "previewPackLink": "/packages/previews/grey128x.png",
+        "packIconLink": "/packages/icons/grey128x.png",
+        "swordIconLink": "/packages/swords/grey128x",
+        "zipDownloadLink": "https://github.com/zqzaiofficial/twilight-textures/raw/main/_files/packs/Grey%20128x.zip",
+        "id": 1
     },
 ]
