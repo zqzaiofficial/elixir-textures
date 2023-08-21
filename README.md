@@ -1,6 +1,6 @@
 # ✨️ Twilight Textures - Texture Packs Repository ✨️ 
 
-[![Build Status](https://travis-ci.org/sferik/twitter.svg?branch=master)][travis]
+https://travis-ci.org/sferik/twitter.svg?branch=master
 [![Maintainability](https://api.codeclimate.com/v1/badges/09362621ad91e8f599b3/maintainability)][maintainability]
 [![Inline docs](http://inch-ci.org/github/sferik/twitter.svg?style=shields)][inchpages]
 
