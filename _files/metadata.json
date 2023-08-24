@@ -8,6 +8,7 @@
         "packIconLink": "/packages/icons/rnoPrivateDefualtEdit.png",
         "swordIconLink": "/packages/swords/rnoPrivateDefualtEdit.png",
         "zipDownloadLink": "https://github.com/zqzaiofficial/twilight-textures/raw/main/_files/packs/RNO%20Private%20Default%20Edit.zip",
+        "resolution": "x32",
         "id": 0
     },
     {
@@ -19,6 +20,7 @@
         "packIconLink": "/packages/icons/grey128x.png",
         "swordIconLink": "/packages/swords/grey128x",
         "zipDownloadLink": "https://github.com/zqzaiofficial/twilight-textures/raw/main/_files/packs/Grey%20128x.zip",
+        "resolution": "x128",
         "id": 1
     },
 ]
