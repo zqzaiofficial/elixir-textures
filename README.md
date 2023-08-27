@@ -1,27 +1,27 @@
-# ✨️ Twilight Textures - Texture Packs Repository ✨️ 
+# ✨️ Elixir Textures - Texture Packs Repository ✨️ 
 
 ![Build](https://travis-ci.org/sferik/twitter.svg?branch=master)
 ![Maintainability](https://api.codeclimate.com/v1/badges/09362621ad91e8f599b3/maintainability)
 ![Inline docs](http://inch-ci.org/github/sferik/twitter.svg?style=shields)
 
-Welcome to the Twilight Textures Texture Packs Repository! This repository houses all the texture packs used by the Twilight Textures program for Minecraft Pocket Edition (MCPE). Developers interested in creating their own versions of the program are encouraged to explore and utilize these texture packs, while ensuring proper credit is given to the original creators.
+Welcome to the Elixir Textures Texture Packs Repository! This repository houses all the texture packs used by the Elixir Textures program for Minecraft Pocket Edition (MCPE). Developers interested in creating their own versions of the program are encouraged to explore and utilize these texture packs, while ensuring proper credit is given to the original creators.
 
-> **Warning**<br> Twilight Premium Textures are **NOT** avaliable here.
+> **Warning**<br> Elixir Premium Textures are **NOT** avaliable here.
 
-## About Twilight Textures
+## About Elixir Textures
 
-Twilight Textures is a program designed to enhance the visual experience of Minecraft Pocket Edition by applying various texture packs. While the core program is located in a separate repository, this repository contains the essential texture packs used to achieve the unique visual style of Twilight Textures.
+Elixir Textures is a program designed to enhance the visual experience of Minecraft Pocket Edition by applying various texture packs. While the core program is located in a separate repository, this repository contains the essential texture packs used to achieve the unique visual style of Elixir Textures.
 
 ## Getting Started
 
-If you're a developer looking to create your own version of Twilight Textures or customize its functionality, follow these steps:
+If you're a developer looking to create your own version of Elixir Textures or customize its functionality, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
    ```
-   git clone https://github.com/zqzaiofficial/twilight-textures.git
+   git clone https://github.com/zqzaiofficial/elixir-textutes
    ```
 
-2. Incorporate the desired texture packs from this repository into your own version of the Twilight Textures program.
+2. Incorporate the desired texture packs from this repository into your own version of the Elixir Textures program.
 
 3. Make sure to provide proper attribution to the original creators of the texture packs you use. You can find the names of the texture pack creators in the respective subdirectories of each texture pack.
 
@@ -45,6 +45,6 @@ The texture packs in this repository are subject to their respective licenses as
 
 ## Credits
 
-Twilight Textures and this repository are maintained by [Zqzai](https://github.com/zqzaiofficial). The texture packs included here are created by various talented artists, whose names can be found in the individual subdirectories of each texture pack.
+Elixir Textures and this repository are maintained by [Zqzai](https://github.com/zqzaiofficial). The texture packs included here are created by various talented artists, whose names can be found in the individual subdirectories of each texture pack.
 
-Thank you for your interest in Twilight Textures and happy developing!
+Thank you for your interest in Elixir Textures and happy developing!
